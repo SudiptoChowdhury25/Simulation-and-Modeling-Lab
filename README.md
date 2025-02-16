@@ -6,7 +6,8 @@
 - **University:** University of Information Technology and Sciences  
 - **Course:** CSE 413: Simulation and Modeling Lab  
 
-## Assignment: 1 Details:
+# Assignment 1 - 
+## Details:
 ### **Task 1:**
 - Generate two vectors with 15 random floats each.
 - Plot them on the same graph.
@@ -34,5 +35,26 @@
 - The importance of matrix operations in data processing.
 - Data visualization techniques using Matplotlib and Seaborn.
 - Managing and submitting assignments using GitHub for version control.
+
+
+# Assignment 2 -  
+
+## Details:  
+- Generate a **3×3 matrix** of random integers between **1 and 50** using NumPy.  
+- Run the code **twice**:  
+  1. **With a fixed seed (`np.random.seed(10)`)** to ensure the same output on every run.  
+  2. **Without setting a seed**, allowing random values to change each time.  
+- Observe and explain the differences in outputs.  
+
+## Concepts Covered:  
+- NumPy random number generation using `np.random.randint()`.  
+- Using `np.random.seed()` for reproducibility.  
+- Understanding the difference between fixed and non-fixed random states.  
+
+## What I Learned:  
+- How `np.random.seed()` ensures consistency in random number generation.  
+- The role of randomness in programming and why reproducibility is important.  
+- The impact of not setting a seed, resulting in different outputs on each run.  
+
 
 
