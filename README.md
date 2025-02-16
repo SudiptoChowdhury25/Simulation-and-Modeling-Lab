@@ -6,7 +6,7 @@
 - **University:** University of Information Technology and Sciences  
 - **Course:** CSE 413: Simulation and Modeling Lab  
 
-## Assignment Details:
+## Assignment: 1 Details:
 ### **Task 1:**
 - Generate two vectors with 15 random floats each.
 - Plot them on the same graph.
