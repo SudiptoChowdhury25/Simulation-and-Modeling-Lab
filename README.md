@@ -1,5 +1,5 @@
 ## Simulation-and-Modeling-Lab
-## Assignment 1
+## Lab Assignments 
 ## Student Details:
 - **Name:** Sudipta Roy Chowdhury  
 - **ID:** 2215151025  
